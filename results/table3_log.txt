@@ -1,0 +1,15 @@
+Http (KDDCUP99)    paper 1.00 | own 1.000±0.000 | sklearn 1.000±0.000 | LOF nan
+ForestCover        paper 0.88 | own 0.881±0.031 | sklearn 0.877±0.035 | LOF nan
+Mulcross           paper 0.97 | own 0.825±0.016 | sklearn 0.826±0.029 | LOF nan
+Smtp (KDDCUP99)    paper 0.88 | own 0.909±0.006 | sklearn 0.904±0.006 | LOF nan
+Shuttle            paper 1.00 | own 0.997±0.001 | sklearn 0.997±0.000 | LOF 0.552
+/usr/local/lib/python3.13/dist-packages/sklearn/neighbors/_lof.py:327: UserWarning: Duplicate values are leading to incorrect results. Increase the number of neighbors for more accurate results.
+  warnings.warn(
+Mammography        paper 0.86 | own 0.861±0.006 | sklearn 0.861±0.007 | LOF 0.671
+Annthyroid         paper 0.82 | own 0.821±0.017 | sklearn 0.818±0.016 | LOF 0.725
+Satellite          paper 0.71 | own 0.708±0.017 | sklearn 0.701±0.019 | LOF 0.522
+Pima               paper 0.67 | own 0.675±0.011 | sklearn 0.671±0.007 | LOF 0.494
+/usr/local/lib/python3.13/dist-packages/sklearn/neighbors/_lof.py:327: UserWarning: Duplicate values are leading to incorrect results. Increase the number of neighbors for more accurate results.
+  warnings.warn(
+Breastw            paper 0.99 | own 0.986±0.002 | sklearn 0.987±0.001 | LOF 0.439
+Ionosphere         paper 0.85 | own 0.848±0.005 | sklearn 0.846±0.006 | LOF 0.899
